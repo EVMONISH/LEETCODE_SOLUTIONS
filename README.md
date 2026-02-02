@@ -51,6 +51,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -77,12 +78,14 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
@@ -93,4 +96,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
