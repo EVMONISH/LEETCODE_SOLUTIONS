@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
