@@ -13,6 +13,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
