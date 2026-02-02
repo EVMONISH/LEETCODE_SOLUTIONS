@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
@@ -19,4 +20,20 @@
 |  |
 | ------- |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
