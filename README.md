@@ -69,6 +69,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,8 +79,13 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
