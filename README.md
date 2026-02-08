@@ -72,6 +72,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
@@ -113,6 +115,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
