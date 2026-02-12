@@ -41,6 +41,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@
 | [0061-rotate-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
@@ -100,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -118,6 +121,7 @@
 | [0061-rotate-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
@@ -134,4 +138,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
