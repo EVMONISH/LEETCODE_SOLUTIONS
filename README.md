@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [1472-design-browser-history](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1472-design-browser-history) |
 ## Merge Sort
 |  |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1472-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
