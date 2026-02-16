@@ -43,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -100,6 +101,7 @@
 | [0205-isomorphic-strings](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -110,6 +112,7 @@
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
