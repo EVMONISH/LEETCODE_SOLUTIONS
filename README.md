@@ -20,6 +20,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1472-design-browser-history](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
@@ -48,6 +49,7 @@
 | [0904-fruit-into-baskets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Divide and Conquer
@@ -76,10 +78,12 @@
 | [0209-minimum-size-subarray-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +112,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
