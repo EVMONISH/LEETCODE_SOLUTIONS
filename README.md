@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
@@ -48,6 +49,7 @@
 | [0076-minimum-window-substring](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
