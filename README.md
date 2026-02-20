@@ -209,6 +209,7 @@
 | [0226-invert-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | [0226-invert-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -232,8 +234,10 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
