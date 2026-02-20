@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
@@ -62,6 +63,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -205,6 +207,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
@@ -222,6 +225,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
@@ -238,6 +242,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
