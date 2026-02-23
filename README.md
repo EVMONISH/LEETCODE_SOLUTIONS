@@ -26,6 +26,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
@@ -62,6 +63,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Divide and Conquer
 |  |
@@ -94,6 +96,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
