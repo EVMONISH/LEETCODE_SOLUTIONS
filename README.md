@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -152,6 +153,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
@@ -294,6 +296,7 @@
 | [0046-permutations](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
