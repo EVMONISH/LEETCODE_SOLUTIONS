@@ -108,6 +108,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
@@ -199,6 +200,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 ## Stack
