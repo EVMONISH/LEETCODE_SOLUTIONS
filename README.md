@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
@@ -82,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
@@ -210,6 +213,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
@@ -239,6 +243,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
