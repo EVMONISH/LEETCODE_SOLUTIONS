@@ -37,6 +37,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1472-design-browser-history) |
+| [2104-sum-of-subarray-ranges](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
@@ -223,6 +224,7 @@
 | [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1472-design-browser-history) |
+| [2104-sum-of-subarray-ranges](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 ## Merge Sort
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
