@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
@@ -222,6 +223,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
