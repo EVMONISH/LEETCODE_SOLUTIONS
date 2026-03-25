@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0162-find-peak-element) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
