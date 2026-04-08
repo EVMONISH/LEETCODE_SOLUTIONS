@@ -33,6 +33,7 @@
 | [0875-koko-eating-bananas](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
@@ -85,6 +86,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -186,6 +188,7 @@
 | [0015-3sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +249,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -326,6 +330,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -354,4 +359,16 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
