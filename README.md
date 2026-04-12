@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -373,4 +375,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
