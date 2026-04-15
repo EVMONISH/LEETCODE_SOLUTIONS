@@ -1,5 +1,6 @@
 class Solution {
-public:
+public: 
+        //this is space optimization code and for other codes see naukri code 360..
     int rob(vector<int>& nums) {
         int n = nums.size();
 
