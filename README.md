@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
@@ -383,4 +385,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
