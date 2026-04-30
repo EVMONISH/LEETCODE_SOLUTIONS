@@ -140,6 +140,7 @@
 | [0062-unique-paths](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -241,6 +242,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
