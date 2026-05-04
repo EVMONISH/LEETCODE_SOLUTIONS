@@ -31,6 +31,7 @@
 | [0219-contains-duplicate-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -111,6 +112,7 @@
 | [0198-house-robber](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1463-cherry-pickup-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1463-cherry-pickup-ii) |
