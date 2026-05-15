@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0912-sort-an-array) |
