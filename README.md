@@ -119,6 +119,7 @@
 | [0392-is-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
@@ -210,6 +211,7 @@
 | [0402-remove-k-digits](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
