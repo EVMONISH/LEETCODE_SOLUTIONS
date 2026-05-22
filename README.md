@@ -124,6 +124,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1463-cherry-pickup-ii) |
 ## Queue
 |  |
@@ -214,6 +215,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
