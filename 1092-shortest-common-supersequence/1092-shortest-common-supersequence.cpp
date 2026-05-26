@@ -48,8 +48,9 @@ public:
             ans += str2[j-1];
             j--;
         }
+
         reverse(ans.begin(), ans.end());
         return ans;
-        }
+    }
 };
 
