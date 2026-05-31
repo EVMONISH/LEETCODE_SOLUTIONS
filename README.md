@@ -160,6 +160,7 @@
 | [0070-climbing-stairs](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -272,6 +273,7 @@
 | [0231-power-of-two](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -407,6 +409,7 @@
 | ------- |
 | [0078-subsets](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
