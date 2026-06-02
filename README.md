@@ -40,6 +40,7 @@
 | [0503-next-greater-element-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
@@ -67,6 +68,7 @@
 | [0162-find-peak-element](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
