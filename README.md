@@ -58,6 +58,7 @@
 | [1472-design-browser-history](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0326-power-of-three](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2965-find-missing-and-repeated-values](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -398,6 +401,7 @@
 | [0085-maximal-rectangle](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [1463-cherry-pickup-ii](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/1463-cherry-pickup-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/EVMONISH/LEETCODE_SOLUTIONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
